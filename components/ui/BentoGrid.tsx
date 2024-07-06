@@ -128,7 +128,6 @@ export const BentoGridItem = ({
           {/* change the order of the title and des, font-extralight, remove text-xs text-neutral-600 dark:text-neutral-300 , change the text-color */}
           <div
             className="font-sans font-extralight md:max-w-32 md:text-xs lg:text-base text-sm text-[#C1C2D3] z-10"
-            style={{ maxWidth: id == 2 && 180 }}
           >
             {description}
           </div>
