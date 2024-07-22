@@ -33,7 +33,7 @@ const Hero = () => {
             words="Transforming Concepts into seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
-          Hello, I'm Zeenat, your Mumbai-based front-end developer, weaving web magic one dynamic site at a time
+          Hello, I&apos;m Zeenat, your Mumbai-based front-end developer, weaving web magic one dynamic site at a time
 
           </p>
           <a href="#projects">
