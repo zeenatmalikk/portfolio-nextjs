@@ -73,6 +73,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Tech Gather",
+    des: "Event Platform for Tech Enthusiasts: Connect, Learn, and Grow Together",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://tech-gather.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Smart POS",
     des: "Order management was never so easy. Settle orders and have a quick grasp of data through analytics",
     img: "/pos.png",
@@ -80,21 +88,14 @@ export const projects = [
     link: "https://github.com/zeenatmalikk/Smart-POS-App",
   },
   {
-    id: 2,
+    id: 3,
     title: "NexCall - Video Conferencing App",
     des: "Simplify your video conferencing experience with NexCall. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://github.com/zeenatmalikk/Nexcall-video-conferencing",
   },
-  // {
-  //   id: 3,
-  //   title: "AI Image SaaS - Canva Application",
-  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-  //   img: "/p3.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  //   link: "https://github.com/adrianhajdin/ai_saas_app",
-  // },
+
   // {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
@@ -206,7 +207,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link:'https://github.com/zeenatmalikk'
+    link: "https://github.com/zeenatmalikk",
   },
   {
     id: 2,
@@ -215,6 +216,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link:'https://www.linkedin.com/in/zeenatmalik/'
+    link: "https://www.linkedin.com/in/zeenatmalik/",
   },
 ];
