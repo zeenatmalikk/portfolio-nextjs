@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@react-three/fiber": "^8.16.8",
-    "@sentry/nextjs": "^8.13.0",
+    "@sentry/nextjs": "^8.32.0",
     "@types/react-lottie": "^1.2.10",
     "@types/three": "^0.166.0",
     "clsx": "^2.1.1",
